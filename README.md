@@ -17,12 +17,14 @@ This branch provides the production-ready backend to serve the trained hand gest
 {
   "landmarks": [0.1, 0.2, 0.3, ..., 0.7]  # 63 float values (21 points × x, y, z)
 }
-🔸 Response:
+
+### 🔸 Response:
 
 {
   "gesture": "left"
 }
-📁 Structure
+
+### 📁 Structure
 gesture-maze-prod/
 ├── app/
 │   └── main.py              # FastAPI app
@@ -30,7 +32,8 @@ gesture-maze-prod/
 │   └── best_model.pkl       # Copied from research repo
 ├── requirements.txt
 └── README.md                # This file
-▶️ Run the API Locally
+
+### ▶️ Run the API Locally
 Install dependencies:
 
 pip install -r requirements.txt
