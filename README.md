@@ -34,6 +34,7 @@ gesture-maze-prod/
 ├── requirements.txt
 └── README.md                # This file
 
+
 ### ▶️ Run the API Locally
 
 Install dependencies:
