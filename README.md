@@ -25,6 +25,7 @@ This branch provides the production-ready backend to serve the trained hand gest
 }
 
 ### 📁 Structure
+
 gesture-maze-prod/
 ├── app/
 │   └── main.py              # FastAPI app
@@ -34,6 +35,7 @@ gesture-maze-prod/
 └── README.md                # This file
 
 ### ▶️ Run the API Locally
+
 Install dependencies:
 
 pip install -r requirements.txt
