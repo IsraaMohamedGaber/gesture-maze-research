@@ -17,7 +17,7 @@ This branch contains all training experiments and MLflow logs for building a han
 | SVM       | 0.91     | kernel=rbf                  | Good, slower inference   |
 | KNN       | 0.89     | n_neighbors=5               | Simple but less accurate |
 
-![Screenshot (151)](https://github.com/user-attachments/assets/c77cbad4-a34b-4471-9435-85f44a7259bb)
+![Screenshot (151)](https://github.com/user-attachments/assets/b8fc8119-1109-49f7-9183-9598397ea254)
 
 ✅ Selected Model: **Random Forest**
 
