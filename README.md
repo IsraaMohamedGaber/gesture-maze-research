@@ -24,11 +24,17 @@ This branch contains all training experiments and MLflow logs for building a han
 
 gesture-maze-research/
 ├── notebooks/
+
 │ └── training_with_mlflow.ipynb
+
 ├── models/
+
 │ └── best_model.pkl
+
 ├── mlruns/ # MLflow experiment tracking logs
+
 ├── requirements.txt
+
 └── README.md # This file
 
 
