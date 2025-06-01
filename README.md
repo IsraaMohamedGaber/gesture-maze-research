@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Gesture Maze - Research & Experimentation
 
 This branch contains all training experiments and MLflow logs for building a hand gesture recognition model to navigate a maze game.
@@ -46,6 +45,3 @@ gesture-maze-research/
    jupyter notebook notebooks/training_with_mlflow.ipynb
 3. Start MLflow UI:
    mlflow ui
-=======
-
->>>>>>> experiment-mlflow
